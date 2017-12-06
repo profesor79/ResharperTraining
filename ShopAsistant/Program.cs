@@ -10,6 +10,8 @@ namespace ShopAsistant
     {
         static void Main(string[] args)
         {
+            var sa = new ShopAssistant();
+            
         }
     }
 
